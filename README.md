@@ -7,7 +7,8 @@ Mal sehen was nun passiert
 
 Jetzt werde ich einen neuen Versuch starten. Zuerst erzeuge ich eine Funktion und dann lösche ich diese:
 
-f(x)= x+y
+
 y<- 2
 x<-3
 
+So jetzt werde ich die Funktion wieder löschen
